@@ -12,6 +12,8 @@
 
 [Wiki](https://github.com/GAIGResearch/GVGAI/wiki)
 
+[The Book](https://gaigresearch.github.io/gvgaibook/)
+
 ## Interesting Papers
 
 [Deep Reinforcement Learning for General Video Game AI](https://arxiv.org/pdf/1806.02448v1.pdf)
