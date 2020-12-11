@@ -10,6 +10,8 @@
 
 [Github Repo (Learning Branch)](https://github.com/rubenrtorrado/GVGAI_GYM)
 
+[Github Repo (SUSTechGameAI Branch)](https://github.com/SUSTechGameAI/GVGAI_GYM)
+
 [Wiki](https://github.com/GAIGResearch/GVGAI/wiki)
 
 [The Book](https://gaigresearch.github.io/gvgaibook/)
