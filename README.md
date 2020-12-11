@@ -2,6 +2,8 @@
 
 [GVG-AI Competition Site](http://www.gvgai.net/)
 
+[Get Started Resources](http://www.aingames.cn/gvgai/ppsn_cog2020/resources)
+
 [Twitter](https://twitter.com/gvgai)
 
 [The Game AI Research Group](http://gameai.eecs.qmul.ac.uk/category/announcements/)
