@@ -8,6 +8,8 @@
 
 [Github Repo](https://github.com/GAIGResearch/GVGAI)
 
+[Github Repo (Learning Branch)](https://github.com/rubenrtorrado/GVGAI_GYM)
+
 [Wiki](https://github.com/GAIGResearch/GVGAI/wiki)
 
 ## Interesting Papers
